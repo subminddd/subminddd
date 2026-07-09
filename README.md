@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+![info](https://i.imgur.com/Q66Hknc.png)
+
+
+![techstack](https://i.imgur.com/o1OqL9W.png)
+
 <!--
 **subminddd/subminddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
